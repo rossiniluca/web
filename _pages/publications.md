@@ -13,3 +13,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 * Gianfreda, A., Ravazzolo, F. and Rossini, L. (2023) - ["Large Time-Varying VolatilityModels for Electricity
 Prices"](https://onlinelibrary.wiley.com/doi/10.1111/obes.12532). _Oxford Bulletin of Economics & Statistics_, 85:3, 545 - 573
+
+* Iacopini, M., Ravazzolo, F. and Rossini, L. (2023) - ["Proper scoring rules for evaluating density forecasts
+with asymmetric loss functions"](https://amstat.tandfonline.com/doi/full/10.1080/07350015.2022.2035229). _Journal of Business and Economic Statistics_, 41:2, 482 - 486
+
+* Foroni, C., Ravazzolo, F. and Rossini, L. (2023) - ["Are low frequency macroeconomic variables important
+for high frequency electricity prices?"](https://www.sciencedirect.com/science/article/pii/S0264999322003972?via%3Dihub). _Economic Modelling_, 120, 106160
+
+*
