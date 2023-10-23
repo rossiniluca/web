@@ -23,7 +23,7 @@ Project Duration: October 2023 - October 2025
 
 Other Institutions: University of Trieste (PI: [Roberta Pappadà](https://deams.units.it/it/dipartimento/persone/personale-docente?q=it/node/17847)) and Free-University of Bozen-Bolzano (Co-PI: [F. Marta L. Di Lascio](http://www.fmldilascio.it))
 
-## MultiNetMetrics
+## [MultiNetMetrics](https://rossiniluca.github.io/MultiNetMetrics/)
 
 Role: Principal Investigator. Funding: EUR 178.000 from the European Commission under the Marie-Curie Individual Fellowship (796902).
 
