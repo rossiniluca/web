@@ -21,7 +21,7 @@ Role: Co-Principal Investigator and Head of Local Unit. Funding: EUR 250.000  fr
 
 Project Duration: October 2023 - October 2025
 
-Other Institutions: University of Trieste (PI: [Roberta Pappadà](https://deams.units.it/it/dipartimento/persone/personale-docente)) and Free-University of Bozen-Bolzano (Co-PI: [F. Marta L. Di Lascio](http://www.fmldilascio.it))
+Other Institutions: University of Trieste (PI: [Roberta Pappadà](https://deams.units.it/it/dipartimento/persone/personale-docente?q=it/node/17847)) and Free-University of Bozen-Bolzano (Co-PI: [F. Marta L. Di Lascio](http://www.fmldilascio.it))
 
 ## MultiNetMetrics
 
