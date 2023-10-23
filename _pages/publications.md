@@ -27,3 +27,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 * Dalla Valle, L., Leisen, F. and Rossini, L. (2018) - ["Bayesian Nonparametric Conditional Copulas Estimation of Twin Data"](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssc.12237). _Journal of the Royal Statistical Society, Series C_, 67:3, 523 - 548.
 * Leisen, F., Rossini, L. and Villa, C. (2018) - ["Objective Bayesian Analysis of the Yule- Simon Distribution with Applications"](https://link.springer.com/article/10.1007/s00180-017-0735-1). _Computational Statistics_, 33:1, 99 - 126.
 * Leisen, F., Rossini, L. and Villa, C. (2017) - ["A Note on the Posterior Inference for the Yule-Simon Distribution"](https://www.tandfonline.com/doi/full/10.1080/00949655.2016.1255741). _Journal of Statistical Computation and Simulation_, 87:6, 1179 - 1188.
+
+Published discussions:
+-----
+* Iacopini, M., Ravazzolo, R. and Rossini, L. (2020) - ["Discussion on: On a Class of Objective Priors from Scoring Rules", by Fabrizio Leisen, Cristiano Villa, and Stephen G. Walker"](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-4/On-a-Class-of-Objective-Priors-from-Scoring-Rules-with/10.1214/19-BA1187.full). _Bayesian Analysis_, 15:4, 1345 - 1423
+* Casarin, R., Iacopini, M. and Rossini, L. (2017) - ["A discussion on: Sparse graphs using exchangeable random measures by F. Caron and E.B. Fox"](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12233). Journal of the Royal Statistical Society, Series B, 79:5, 1295 - 1366.
+* Casarin, R., Frattarolo, L. and Rossini, L. (2017) - ["A discussion on: Random-projection ensemble classification by T. Cannings and R. Samworth"](https://onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228). Journal of the Royal Statistical Society, Series B, 79:4, 959 - 1035.
+
+Book Chapters:
+-----
+* Bouri, E., Gupta, R. and Rossini, L. (2023) - ["The Role of the Monthly ENSO in Forecasting the Daily Baltic Dry Index"](https://www.sciencedirect.com/science/article/abs/pii/B9780443137761000891). Encyclopedia of Monetary Policy, Financial Markets and Banking
