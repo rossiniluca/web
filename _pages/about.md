@@ -14,5 +14,7 @@ My research interests span across Econometrics and Statistics. In particular, I 
 
 I am a co-principal investigator and head of the local unit of the project [*“Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)”*](https://rossiniluca.github.io/Mnemet/)(grant 20223CEZSR) and of the project [*"Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)"*](https://rossiniluca.github.io/MAP-of-MeLEES/)(grant P2022H483A) funded by the Italian Ministry of University and Research under the PRIN.
 
+I am one of the scientific organizers of the new [Milan Time Series Seminars (MiTSS)](https://sites.google.com/unimib.it/mitss/home-page), which is a seminar series among University of Milan (Statale), University of Milan-Bicocca, Bocconi University, Polytechnique of Milan, FEEM, Catholic University of Milan.
+
 [CV](https://www.dropbox.com/scl/fi/ifsp5z0q5ywdmiyogw1yx/CV_Rossini_Luca.pdf?rlkey=syg4bgqpy7besgvjn6c8wkry0&dl=0) 
 ======
