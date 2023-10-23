@@ -38,5 +38,5 @@ I taught different courses at Bachelor's; Master and PhD. level at Italian and U
 #### Queen Mary University of London
 * [Statistical Modeling I]() for the Bachelor's in Mathematics  for the AY 2020/2021
 
-#### Ca' Foscari University of Venice
+#### Ca' Foscari University of Venice
 * [Introduction to Econometrics]() for the Bachelor's in Foreign Trade and Tourism for the AY 2020/2021
