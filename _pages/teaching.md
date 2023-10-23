@@ -28,15 +28,15 @@ Teaching
 I taught different courses at Bachelor's; Master and PhD. level at Italian and UK Universities:
 
 #### University of Milan
-* [Bayesian Analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Master's Data Science for Economics (DSE) from AY 2021/2022 - Present
-* [Business Statistics](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Bachelor's Economics and Management from AY 2020/2021 - Present
+* [Bayesian Analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Master's Data Science for Economics (DSE) from AY 2021/2022 to Present
+* [Business Statistics](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Bachelor's Economics and Management from AY 2020/2021 to Present
 * [Statistics for Applied Ethology and Animal Welfare]() at the Postgraduate School of Applied Ethology and Animal Welfare in  Veterinary specialisation school for the AY 2021/2022
 
 #### SIdE, the Italian Econometric Association
 * [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023) SiDE Summer School taught in Venice from AY 2020/2021
 
 #### Queen Mary University of London
-* [Statistical Modeling I]() for the Bachelor's in Mathematics  for the AY 2020/2021
+* [Statistical Modeling I]() for the Bachelor's in Mathematics  for the AY 2020/2021 to Present
 
 #### Ca' Foscari University of Venice
 * [Introduction to Econometrics]() for the Bachelor's in Foreign Trade and Tourism for the AY 2020/2021
