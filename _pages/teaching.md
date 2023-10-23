@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am currently supervising different post-doctoral and Ph.D. Students:
+I am currently supervising 1 post-doctoral student and 4 Ph.D. Students and several Master and Bachelor Thesis:
 
 ### University of Milan:
 
@@ -20,3 +20,17 @@ I am currently supervising different post-doctoral and Ph.D. Students:
 * [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Reduced Rank Regression models"
 
 * [Gerardo Duràn Martìn](https://gerdm.github.io/about) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Machine online-learning models"
+
+
+Teaching
+-----
+
+I taught different courses at Bachelor's; Master and PhD. level at Italian and UK Universities:
+
+#### University of Milan
+* [Bayesian Analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Master's Data Science for Economics (DSE) from AY 2021/2022 - Present
+* [Business Statistics[(https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Bachelor's Economics and Management from AY 2020/2021 - Present
+* [Statistics for Applied Ethology and Animal Welfare]() at the Postgraduate School of Applied Ethology and Animal Welfare in  Veterinary specialisation school for the AY 2021/2022
+
+#### SIdE, the Italian Econometric Association
+* [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023) SiDE Summer School taught in Venice from AY 2020/2021
