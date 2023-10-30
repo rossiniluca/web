@@ -9,6 +9,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 {% include base_path %}
 
+* Ravazzolo, F. and Rossini, L. (2023) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://www.feem.it/publications/is-the-price-cap-for-gas-useful-evidence-from-european-countries/). _FEEM Working paper Nota di Lavoro 023.2033_ (Submitted).
 * Prevenas, S., McCrea, R., Rossini, L. and Villa, C. (2023) - ["Loss-based prior for the degrees of freedom of the Wishart distribution"](https://arxiv.org/abs/2103.12900). _arXiv:2103.12900_ (R&R).
 * Iacopini, M., O'Neill, E. and Rossini, L. (2023) - ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _arXiv:2308.10231_ (Submitted)
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2023) - ["The Distributional Impact of Money Growth and Inflation Disaggregates: A Quantile Sensitivity Analysis"](https://arxiv.org/abs/2308.05486). _arXiv:2308.05486_ (Submitted)
