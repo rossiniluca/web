@@ -17,7 +17,7 @@ I am currently supervising 1 post-doctoral student and 4 Ph.D. Students and seve
 
 ### Queen Mary University of London
 
-* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Reduced Rank Regression models"
+* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Matteo Iacopini](https://matteoiacopini.github.io)) with a thesis on "Bayesian Reduced Rank Regression models"
 
 * [Gerardo Duràn Martìn](https://gerdm.github.io/about) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Machine online-learning models"
 
