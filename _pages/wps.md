@@ -19,5 +19,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 * Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (2023) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"](https://arxiv.org/abs/2011.04577). _arXiv:2011.04577_ (R&R)
 * Iacopini, M., Ravazzolo, F. and Rossini, L. (2023) - ["Bayesian Multivariate Quantile Regression with alternative Time-varying Volatility Specifications"](https://arxiv.org/abs/2211.16121). _arXiv:2211.16121_ (Submitted) - [Video](https://www.youtube.com/watch?v=IsR1Fg_jSdg&t=412s)
 * Iacopini, M. and Rossini, L. (2023) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](). (Submitted)
-* Bianchi, D., Rossini, L. and Iacopini, M. (2021) - ["Stablecoins and cryptocurrency returns: What is the role of Tether?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605451). _SSRN: 3605451_ (Under review).
+
+Permanent Working paper:
+* Bianchi, D., Rossini, L. and Iacopini, M. (2021) - ["Stablecoins and cryptocurrency returns: What is the role of Tether?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3605451). _SSRN: 3605451_
 
