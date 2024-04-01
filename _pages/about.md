@@ -16,5 +16,5 @@ I am a co-principal investigator and head of the local unit of the project [*“
 
 I am one of the scientific organizers of the new [Milan Time Series Seminars (MiTSS)](https://sites.google.com/unimib.it/mitss/home-page), which is a seminar series among University of Milan (Statale), University of Milan-Bicocca, Bocconi University, Polytechnique of Milan, FEEM, Catholic University of Milan.
 
-[CV](https://github.com/rossiniluca/web/blob/f225370eabe566557222a01e3f8704c9d28db244/_pages/CV_Rossini_Luca.pdf) 
+[CV](https://github.com/rossiniluca/web/blob/dd5b5df6c4f9de37a47a6b672a6756943d0ba02c/_pages/CV_Rossini_Luca.pdf) 
 ======
