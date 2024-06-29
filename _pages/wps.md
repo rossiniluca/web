@@ -9,6 +9,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 {% include base_path %}
 
+* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024) - ["Bayesian Partial Reduced-Rank Regression"](https://arxiv.org/abs/2406.17444). _arXiv:2406.17444_ (Submitted)
 * Iacone, F., Rossini, L. and Viselli, A. (2024) - ["Comparing predictive ability in presence of instability over a very short time"](https://arxiv.org/abs/2405.11954). _arXiv:2405.11954_ (Submitted)
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _arXiv:2306.01521_ (R&R)
 * Bastianin, A., Mirto, E., Qin, Y and Rossini, L. (2024) -- ["What drives the European carbon market? Macroeconomic factors and forecasts"](https://arxiv.org/abs/2402.04828). _arXiv:2402.04828_ or _FEEM Working paper Nota di Lavoro 02.2024_ (Submitted)
