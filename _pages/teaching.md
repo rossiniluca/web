@@ -9,9 +9,11 @@ I am currently supervising 2 post-doctoral students and 4 Ph.D. Students and sev
 
 ### University of Milan:
 
-* [Amare Alemaye Mersha]() - PostDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/)
+* [Amare Alemaye Mersha](https://www.unimi.it/it/ugov/person/amare-mersha) - PostDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/)
   
 * [Elisabetta Mirto](https://www.unimi.it/it/ugov/person/elisabetta-mirto) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on a project on "Econometric Methods for Energy Transition"
+
+* [Marta Campagnoli](https://www.unimi.it/it/ugov/person/marta-campagnoli) - PreDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) 
 
 * [Andrea Viselli](https://andreaviselli.github.io) - Third Year Ph.D. Student (co-supervised with [Fabrizio Iacone](https://www.unimi.it/it/ugov/person/fabrizio-iacone)) with a thesis on "Forecasting with Mixed Frequency models"
 
@@ -32,7 +34,8 @@ I taught different courses at Bachelor's; Master and PhD. level at Italian and U
 #### University of Milan
 * [Bayesian Analysis](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Master's Data Science for Economics (DSE) from AY 2021/2022 to Present
 * [Business Statistics](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2022/bayesian-analysis) at the Bachelor's Economics and Management from AY 2020/2021 to Present
-* [Statistics for Applied Ethology and Animal Welfare]() at the Postgraduate School of Applied Ethology and Animal Welfare in  Veterinary specialisation school for the AY 2021/2022
+* [Probability and Statistics](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/probability-and-statistics) at the Bachelor's Economics: behavior, data and policy from AY 2024/2025 to Present
+* [Statistics for Applied Ethology and Animal Welfare]() at the Postgraduate School of Applied Ethology and Animal Welfare in  Veterinary specialization school for the AY 2021/2022
 
 #### SIdE, the Italian Econometric Association
 * [Network Econometrics](https://www.side-iea.it/events/courses/network-econometrics-2023) SiDE Summer School taught in Venice from AY 2020/2021
