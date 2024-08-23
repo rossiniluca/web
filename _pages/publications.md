@@ -31,10 +31,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 Published discussions:
 -----
-3. Iacopini, M., Ravazzolo, R. and Rossini, L. (2020) - ["Discussion on: On a Class of Objective Priors from Scoring Rules", by Fabrizio Leisen, Cristiano Villa, and Stephen G. Walker"](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-4/On-a-Class-of-Objective-Priors-from-Scoring-Rules-with/10.1214/19-BA1187.full). _Bayesian Analysis_, 15:4, 1345 - 1423
-2. Casarin, R., Iacopini, M. and Rossini, L. (2017) - ["A discussion on: Sparse graphs using exchangeable random measures by F. Caron and E.B. Fox"](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12233). Journal of the Royal Statistical Society, Series B, 79:5, 1295 - 1366.
-1. Casarin, R., Frattarolo, L. and Rossini, L. (2017) - ["A discussion on: Random-projection ensemble classification by T. Cannings and R. Samworth"](https://onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228). Journal of the Royal Statistical Society, Series B, 79:4, 959 - 1035.
+* Iacopini, M., Ravazzolo, R. and Rossini, L. (2020) - ["Discussion on: On a Class of Objective Priors from Scoring Rules", by Fabrizio Leisen, Cristiano Villa, and Stephen G. Walker"](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-4/On-a-Class-of-Objective-Priors-from-Scoring-Rules-with/10.1214/19-BA1187.full). _Bayesian Analysis_, 15:4, 1345 - 1423
+* Casarin, R., Iacopini, M. and Rossini, L. (2017) - ["A discussion on: Sparse graphs using exchangeable random measures by F. Caron and E.B. Fox"](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12233). Journal of the Royal Statistical Society, Series B, 79:5, 1295 - 1366.
+* Casarin, R., Frattarolo, L. and Rossini, L. (2017) - ["A discussion on: Random-projection ensemble classification by T. Cannings and R. Samworth"](https://onlinelibrary.wiley.com/doi/full/10.1111/rssb.12228). Journal of the Royal Statistical Society, Series B, 79:4, 959 - 1035.
 
 Book Chapters:
 -----
-1. Bouri, E., Gupta, R. and Rossini, L. (2023) - ["The Role of the Monthly ENSO in Forecasting the Daily Baltic Dry Index"](https://www.sciencedirect.com/science/article/abs/pii/B9780443137761000891). Encyclopedia of Monetary Policy, Financial Markets and Banking
+* Bouri, E., Gupta, R. and Rossini, L. (2023) - ["The Role of the Monthly ENSO in Forecasting the Daily Baltic Dry Index"](https://www.sciencedirect.com/science/article/abs/pii/B9780443137761000891). Encyclopedia of Monetary Policy, Financial Markets and Banking
