@@ -27,7 +27,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 * Leisen, F., Mena, R.H., Palma, F. and Rossini, L. (2019) - ["On a flexible construction of a negative binomial model"](https://www.sciencedirect.com/science/article/pii/S0167715219301075?via%3Dihub). _Statistics & Probability Letters_, 152, 1 - 8.
 * Dalla Valle, L., Leisen, F. and Rossini, L. (2018) - ["Bayesian Nonparametric Conditional Copulas Estimation of Twin Data"](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssc.12237). _Journal of the Royal Statistical Society, Series C_, 67:3, 523 - 548.
 * Leisen, F., Rossini, L. and Villa, C. (2018) - ["Objective Bayesian Analysis of the Yule- Simon Distribution with Applications"](https://link.springer.com/article/10.1007/s00180-017-0735-1). _Computational Statistics_, 33:1, 99 - 126.
-* Leisen, F., Rossini, L. and Villa, C. (2017) - ["A Note on the Posterior Inference for the Yule-Simon Distribution"](https://www.tandfonline.com/doi/full/10.1080/00949655.2016.1255741). _Journal of Statistical Computation and Simulation_, 87:6, 1179 - 1188.
+1. Leisen, F., Rossini, L. and Villa, C. (2017) - ["A Note on the Posterior Inference for the Yule-Simon Distribution"](https://www.tandfonline.com/doi/full/10.1080/00949655.2016.1255741). _Journal of Statistical Computation and Simulation_, 87:6, 1179 - 1188.
 
 Published discussions:
 -----
