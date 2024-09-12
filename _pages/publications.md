@@ -10,7 +10,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 
-[19] Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (202X) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"](https://arxiv.org/abs/2011.04577). _International Journal of Forecasting_ (Forthcoming).
+[19] Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (202X) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"](https://arxiv.org/abs/2011.04577). _International Journal of Forecasting_ (Forthcoming) -- [Code](https://github.com/nhauzenb/hpr-ijof-tvpvecm)
 
 [18] Rossini, L., Villa, C., Prevenas, S. and McCrea, R. (202X) - ["Loss-based prior for the degrees of freedom of the Wishart distribution"](https://www.sciencedirect.com/science/article/pii/S2452306224000315?via%3Dihub). _Econometrics and Statistics_ (Forthcoming).
 
