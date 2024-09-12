@@ -34,9 +34,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 [8] Leisen, F., Rossini, L. and Villa, C. (2020) - ["Loss-based approach to two-piece location-scale distributions with applications to dependent data"](https://link.springer.com/article/10.1007/s10260-019-00481-x). _Statistical Methods and Applications_, 29, 309 - 333.
 
-[7] Dalla Valle, L., Leisen, F., Rossini, L. and Zhu, W. (2020) - ["Bayesian Analysis of Immigration in Europe with Generalized Logistic Regression"](https://www.tandfonline.com/doi/full/10.1080/02664763.2019.1642310). _Journal of Applied Statistics_. 47:3, 424 - 438 -- [Code](https://github.com/rossiniluca/EmpLikelihood_GeneralizedRegression)
+[7] Dalla Valle, L., Leisen, F., Rossini, L. and Zhu, W. (2020) - ["Bayesian Analysis of Immigration in Europe with Generalized Logistic Regression"](https://www.tandfonline.com/doi/full/10.1080/02664763.2019.1642310). _Journal of Applied Statistics_, 47:3, 424 - 438 -- [Code](https://github.com/rossiniluca/EmpLikelihood_GeneralizedRegression)
 
-[6] Billio, M., Casarin, R. and Rossini, L. (2019) - ["Bayesian nonparametric sparse VAR models"](https://www.sciencedirect.com/science/article/pii/S0304407619300776?via%3Dihub). _Journal of Econometrics, 212:1, 97 - 115.
+[6] Billio, M., Casarin, R. and Rossini, L. (2019) - ["Bayesian nonparametric sparse VAR models"](https://www.sciencedirect.com/science/article/pii/S0304407619300776?via%3Dihub). _Journal of Econometrics_, 212:1, 97 - 115.
 
 [5] Bohte, R. and Rossini, L. (2019) - ["Comparing the Forecasting of Cryptocurrencies by Bayesian Time-Varying Volatility Models"](https://www.mdpi.com/1911-8074/12/3/150). _Journal of Risk and Financial Management_, 12(3), 150.
 
