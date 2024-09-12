@@ -10,6 +10,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 
+[19] Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (202X) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"](https://arxiv.org/abs/2011.04577). _International Journal of Forecasting_ (Forthcoming).
+
 [18] Rossini, L., Villa, C., Prevenas, S. and McCrea, R. (202X) - ["Loss-based prior for the degrees of freedom of the Wishart distribution"](https://www.sciencedirect.com/science/article/pii/S2452306224000315?via%3Dihub). _Econometrics and Statistics_ (Forthcoming).
 
 [17] Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2023) - ["Bayesian mixed-frequency quantile vector autoregression: Eliciting tail risks of monthly US GDP"](https://www.sciencedirect.com/science/article/pii/S016518892300163X?via%3Dihub). _Journal of Economic Dynamics and Control_, 157:104757
