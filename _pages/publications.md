@@ -12,7 +12,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 [20] Opschoor, A., Lucas, A., and Rossini, L. (202X) - ["Tail Heterogeneity for Dynamic Covariance-Matrix-Valued Random Variables: the F-Riesz Distribution"](https://tinbergen.nl/discussion-paper/6023/21-010-iii-tail-heterogeneity-for-dynamic-covariance-matrices-the-f-riesz-distribution). _Journal of Financial Econometrics_ (Forthcoming)
 
-[19] Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (202X) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"]([https://www.sciencedirect.com/science/article/pii/S0169207024000955]). _International Journal of Forecasting_ (Forthcoming) -- [Code](https://github.com/nhauzenb/hpr-ijof-tvpvecm)
+[19] Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (202X) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"](https://www.sciencedirect.com/science/article/pii/S0169207024000955). _International Journal of Forecasting_ (Forthcoming) -- [Code](https://github.com/nhauzenb/hpr-ijof-tvpvecm)
 
 [18] Rossini, L., Villa, C., Prevenas, S. and McCrea, R. (202X) - ["Loss-based prior for the degrees of freedom of the Wishart distribution"](https://www.sciencedirect.com/science/article/pii/S2452306224000315?via%3Dihub). _Econometrics and Statistics_ (Forthcoming).
 
