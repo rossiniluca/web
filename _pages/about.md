@@ -15,8 +15,8 @@ I serve as Associate Editor for [Annals of Applied Statistics](https://imstat.or
 My research interests span across Econometrics and Statistics. In particular, I am interested in Bayesian methods applied to time series models and to graph/network theory; I am also working on novel Bayesian nonparametric techniques and covariance matrix estimation. I am working on forecasting techniques for novel datasets related to the energy transition.
 
 I am a co-principal investigator and head of the local unit of the projects funded by the Italian Ministry of University and Research under the PRIN:
-[*] [*“Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)”*](https://rossiniluca.github.io/Mnemet/)(grant 20223CEZSR)
-[*] [*"Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)"*](https://rossiniluca.github.io/MAP-of-MeLEES/)(grant P2022H483A)
+* [*“Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)”*](https://rossiniluca.github.io/Mnemet/)(grant 20223CEZSR)
+* [*"Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)"*](https://rossiniluca.github.io/MAP-of-MeLEES/)(grant P2022H483A)
 
 I am one of the scientific organizers of the new [Milan Time Series Seminars (MiTSS)](https://sites.google.com/unimib.it/mitss/home-page), which is a seminar series among University of Milan (Statale), University of Milan-Bicocca, Bocconi University, Polytechnique of Milan, FEEM, Catholic University of Milan.
 
