@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+[21] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming)
+
 
 [20] Opschoor, A., Lucas, A., and Rossini, L. (202X) - ["Tail Heterogeneity for Dynamic Covariance-Matrix-Valued Random Variables: the F-Riesz Distribution"](https://academic.oup.com/jfec/advance-article/doi/10.1093/jjfinec/nbae023/7815431?searchresult=1). _Journal of Financial Econometrics_ (Forthcoming)
 
