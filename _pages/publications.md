@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-[22] Ravazzolo, F. and Rossini, L. (2023) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://www.feem.it/en/publications/is-the-price-cap-for-gas-useful-evidence-from-european-countries/). _Annals of Applied Statistics_ (Forthcoming)
+[22] Ravazzolo, F. and Rossini, L. (202X) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://www.feem.it/en/publications/is-the-price-cap-for-gas-useful-evidence-from-european-countries/). _Annals of Applied Statistics_ (Forthcoming)
 
 [21] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming)
 
