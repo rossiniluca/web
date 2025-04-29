@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+[24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _Statistics and Computing_ (Forthcoming)
+
 [23] Iacopini, M. and Rossini, L. (202X) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_ (Forthcoming)
 
 [22] Ravazzolo, F. and Rossini, L. (202X) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://www.feem.it/en/publications/is-the-price-cap-for-gas-useful-evidence-from-european-countries/). _Annals of Applied Statistics_ (Forthcoming)
@@ -16,7 +18,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 [21] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming) -- [Video](https://www.youtube.com/watch?v=9ubmYR4nRvE)
 
 
-[20] Opschoor, A., Lucas, A., and Rossini, L. (202X) - ["Tail Heterogeneity for Dynamic Covariance-Matrix-Valued Random Variables: the F-Riesz Distribution"](https://academic.oup.com/jfec/advance-article/doi/10.1093/jjfinec/nbae023/7815431?searchresult=1). _Journal of Financial Econometrics_ (Forthcoming)
+[20] Opschoor, A., Lucas, A., and Rossini, L. (2025) - ["Tail Heterogeneity for Dynamic Covariance-Matrix-Valued Random Variables: the F-Riesz Distribution"](https://academic.oup.com/jfec/advance-article/doi/10.1093/jjfinec/nbae023/7815431?searchresult=1). _Journal of Financial Econometrics_, 23:2, nbae023
 
 [19] Hauzenberger, N, Pfarrhofer, M. and Rossini, L. (2025) - ["Sparse time-varying parameter VECMs with an application to modeling electricity prices"](https://www.sciencedirect.com/science/article/pii/S0169207024000955). _International Journal of Forecasting_, 41:1, 361 - 376 -- [Code](https://github.com/nhauzenb/hpr-ijof-tvpvecm)
 
