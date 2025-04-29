@@ -11,7 +11,6 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 * Opschoor A., Peerlings, D., Rossini, L. and Lucas, A. (2024) - ["Density Forecasting for Electricity Prices under Tail Heterogeneity with the t-Riesz Distribution"](https://tinbergen.nl/discussion-paper/6354/24-049-iii-density-forecasting-for-electricity-prices-under-tail-heterogeneity-with-the-t-riesz-distribution). _Tinbergen Institute_ 24-049/III (Submitted)
 * Iacone, F., Rossini, L. and Viselli, A. (2024) - ["Comparing predictive ability in presence of instability over a very short time"](https://arxiv.org/abs/2405.11954). _arXiv:2405.11954_ (Submitted)
-* Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2024) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _arXiv:2306.01521_ (R&R)
 * Bastianin, A., Mirto, E., Qin, Y and Rossini, L. (2024) -- ["What drives the European carbon market? Macroeconomic factors and forecasts"](https://arxiv.org/abs/2402.04828). _arXiv:2402.04828_ or _FEEM Working paper Nota di Lavoro 02.2024_ (Submitted)
 * Iacopini, M., O'Neill, E. and Rossini, L. (2024) - ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _arXiv:2308.10231_ (R&R)
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2024) - ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_ (Submitted)
