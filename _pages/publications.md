@@ -9,11 +9,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-[24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"](https://arxiv.org/abs/2306.01521). _Statistics and Computing_ (Forthcoming)
+[24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"]([https://arxiv.org/abs/2306.01521](https://link.springer.com/article/10.1007/s11222-025-10629-3)). _Statistics and Computing_, 35:110
 
 [23] Iacopini, M. and Rossini, L. (202X) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_ (Forthcoming)
 
-[22] Ravazzolo, F. and Rossini, L. (202X) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://www.feem.it/en/publications/is-the-price-cap-for-gas-useful-evidence-from-european-countries/). _Annals of Applied Statistics_ (Forthcoming)
+[22] Ravazzolo, F. and Rossini, L. (2025) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Is-the-price-cap-for-gas-useful-Evidence-from-European/10.1214/25-AOAS2016.short). _Annals of Applied Statistics_, 19:2, 1065 - 1085
 
 [21] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming) -- [Video](https://www.youtube.com/watch?v=9ubmYR4nRvE)
 
