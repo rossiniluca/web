@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+[25] * Iacone, F., Rossini, L. and Viselli, A. (202X) - ["Comparing predictive ability in presence of instability over a very short time"](https://arxiv.org/abs/2405.11954). _The Econometrics Journal_ (Forthcoming)
+
 [24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"]([https://arxiv.org/abs/2306.01521](https://link.springer.com/article/10.1007/s11222-025-10629-3)). _Statistics and Computing_, 35:110
 
 [23] Iacopini, M. and Rossini, L. (202X) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_ (Forthcoming)
