@@ -5,26 +5,33 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am currently supervising 2 post-doctoral students and 4 Ph.D. Students and several Master and Bachelor Thesis:
+### Current Post-doc and Ph.D. Students:
 
-### University of Milan:
+* [Lorenzo Tonni] (https://sites.google.com/view/lorenzotonni/home-page) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on Critical Raw Materials forecasting and identification (10/2024 – Present)
 
-* [Amare Alemaye Mersha](https://www.unimi.it/it/ugov/person/amare-mersha) - PostDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/)
+* [Federico Cortese](https://www.unimi.it/it/ugov/person/federico-cortese) - PostDoctoral Student on Infinite Hidden Markov Model (07/2025 - Present)
+
+* [Andrea Viselli](https://andreaviselli.github.io) - PostDoctoral Student on the project ["Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)"](https://rossiniluca.github.io/Mnemet/) (10/2024 – Present)
+
+* [Marta Campagnoli](https://www.unimi.it/it/ugov/person/marta-campagnoli) - PreDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) (07/2024 - Present)
+
+### Current Ph.D. Students:
+
+* [Lorenzo Rossi](https://www.linkedin.com/in/lorenzo-rossi-227979168/) - Third Year Ph.D. Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) with a thesis on "Growth-at-risk and energy" 
+
+* [Polina Pyanova](https://www.linkedin.com/in/polina-pyanova-446558250/?originalSubdomain=it) - Second Year Ph.D. Student (co-supervised with [Fabrizio Iacone](https://www.unimi.it/it/ugov/person/fabrizio-iacone)) with a thesis on "Density forecasting with quantile regression"
+
+### Former Post-doc Students:
+
+* [Amare Alemaye Mersha](https://sites.google.com/view/amare-alemaye-mersha) - PostDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) (02/2024 -- 07/2025)
   
-* [Elisabetta Mirto](https://www.unimi.it/it/ugov/person/elisabetta-mirto) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on a project on "Econometric Methods for Energy Transition"
+* [Elisabetta Mirto](https://sites.google.com/view/elisabettamirto) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on a project on "Econometric Methods for Energy Transition" (10/2023 -- 07/2025) - Current Position: PostDoctoral Researcher at Study Center Gerzensee
 
-* [Marta Campagnoli](https://www.unimi.it/it/ugov/person/marta-campagnoli) - PreDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) 
+### Former Ph.D. Students:
 
-* [Andrea Viselli](https://andreaviselli.github.io) - Third Year Ph.D. Student (co-supervised with [Fabrizio Iacone](https://www.unimi.it/it/ugov/person/fabrizio-iacone)) with a thesis on "Forecasting with Mixed Frequency models"
+* [Andrea Viselli](https://andreaviselli.github.io) (co-supervised with [Fabrizio Iacone](https://www.unimi.it/it/ugov/person/fabrizio-iacone)) thesis at University of Milan on "Nowcasting and forecast evaluation under large instabilities" (09/2021 – 02/2025) - Current Position: Postdoctoral Researcher at University of Milan.
 
-* [Lorenzo Rossi](https://www.linkedin.com/in/lorenzo-rossi-227979168/) - First Year Ph.D. Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) with a thesis on "Forecasting with Machine Learning methods" 
-
-### Queen Mary University of London
-
-* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Matteo Iacopini](https://matteoiacopini.github.io)) with a thesis on "Bayesian Reduced Rank Regression models"
-
-* [Gerardo Duràn Martìn](https://gerdm.github.io/about) - Third Year Ph.D. Student (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html)) with a thesis on "Bayesian Machine online-learning models"
-
+* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) - (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Matteo Iacopini](https://matteoiacopini.github.io)) with a thesis on "Bayesian Reduced-Rank Regression" (11/2021 – 07/2025) - Current Position: Tenure-Track Assistant Professor in Statistics at CUNEF Madrid
 
 Teaching
 -----
