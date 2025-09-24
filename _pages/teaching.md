@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Current Post-doc and Ph.D. Students:
+### Current Post-doc Students:
 
 * [Lorenzo Tonni](https://sites.google.com/view/lorenzotonni/home-page) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on Critical Raw Materials forecasting and identification (10/2024 – Present)
 
