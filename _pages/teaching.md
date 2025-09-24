@@ -7,7 +7,7 @@ author_profile: true
 
 ### Current Post-doc and Ph.D. Students:
 
-* [Lorenzo Tonni] (https://sites.google.com/view/lorenzotonni/home-page) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on Critical Raw Materials forecasting and identification (10/2024 – Present)
+* [Lorenzo Tonni](https://sites.google.com/view/lorenzotonni/home-page) - PostDoctoral Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) on Critical Raw Materials forecasting and identification (10/2024 – Present)
 
 * [Federico Cortese](https://www.unimi.it/it/ugov/person/federico-cortese) - PostDoctoral Student on Infinite Hidden Markov Model (07/2025 - Present)
 
@@ -31,7 +31,7 @@ author_profile: true
 
 * [Andrea Viselli](https://andreaviselli.github.io) (co-supervised with [Fabrizio Iacone](https://www.unimi.it/it/ugov/person/fabrizio-iacone)) thesis at University of Milan on "Nowcasting and forecast evaluation under large instabilities" (09/2021 – 02/2025) - Current Position: Postdoctoral Researcher at University of Milan.
 
-* [Maria Fernanda Pintado Serrano](https://www.qmul.ac.uk/maths/profiles/pintadoserranom.html) - (co-supervised with [Alexander Shestopaloff](https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html) and [Matteo Iacopini](https://matteoiacopini.github.io)) with a thesis on "Bayesian Reduced-Rank Regression" (11/2021 – 07/2025) - Current Position: Tenure-Track Assistant Professor in Statistics at CUNEF Madrid
+* [Maria Fernanda Pintado Serrano](https://mfpintado.wordpress.com) - (co-supervised with [Alexander Shestopaloff](https://utstat.utoronto.ca/~alexander/) and [Matteo Iacopini](https://matteoiacopini.github.io)) thesis at Queen Mary University of London on "Bayesian Reduced-Rank Regression" (11/2021 – 07/2025) - Current Position: Tenure-Track Assistant Professor in Statistics at CUNEF Madrid
 
 Teaching
 -----
