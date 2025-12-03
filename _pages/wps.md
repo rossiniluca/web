@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 {% include base_path %}
 
+* Cortese, F. and Rossini, L. (2025) - ["A comparison between initialization strategies for the infinite hidden Markov model"](). _arXiv:_ (Submitted)
+* Bastianin, A, Romani, I.G., Rossini, L., and Zoso, M. (2025) - ["A Country-Level Study of Exposure to Battery Price Fluctuations through Trade Networks"](https://ceepr.mit.edu/workingpaper/a-country-level-study-of-exposure-to-battery-price-fluctuations-through-trade-networks/). _MIT CEEPR Working Paper 2025-18_
 * Ravazzolo, F., Rossini, L. and Viselli, A. (2025) - ["Modeling European Electricity Market Integration during turbulent times"](https://arxiv.org/abs/2506.23289). _arXiv:2506.23289_ (Submitted)
 * Benini, G., Enstad, E., Mersha, A.A. and Rossini, L. (2025) – ["Technical versus Environmental Efficiency in Steel Production: A Global Perspective"](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3211422). _NHH Discussion paper 23/2025_ (Submitted)
 * Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2025) - ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_ (Submitted)
