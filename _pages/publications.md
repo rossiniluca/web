@@ -10,6 +10,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 [26] Iacopini, M., O'Neill, E. and Rossini, L. (2025) - ["Static and Dynamic BART for Rank-Order Data"](https://arxiv.org/abs/2308.10231). _Journal of Business and Economic Statistics_ (Forthcoming)
+
 [25] Iacone, F., Rossini, L. and Viselli, A. (202X) - ["Comparing predictive ability in presence of instability over a very short time"](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext). _The Econometrics Journal_ (Forthcoming) -- [Code](https://github.com/andreaviselli/comparing-predictive-ability-very-short-instability)
 
 [24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"]([https://arxiv.org/abs/2306.01521](https://link.springer.com/article/10.1007/s11222-025-10629-3)). _Statistics and Computing_, 35:110
