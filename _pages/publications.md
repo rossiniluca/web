@@ -9,18 +9,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-[26] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
+[27] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
 
-[25] Iacone, F., Rossini, L. and Viselli, A. (202X) - ["Comparing predictive ability in presence of instability over a very short time"](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext). _The Econometrics Journal_ (Forthcoming) -- [Code](https://github.com/andreaviselli/comparing-predictive-ability-very-short-instability)
+[26] Iacone, F., Rossini, L. and Viselli, A. (202X) - ["Comparing predictive ability in presence of instability over a very short time"](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext). _The Econometrics Journal_ (Forthcoming) -- [Code](https://github.com/andreaviselli/comparing-predictive-ability-very-short-instability)
 
-[24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"]([https://arxiv.org/abs/2306.01521](https://link.springer.com/article/10.1007/s11222-025-10629-3)). _Statistics and Computing_, 35:110
+[25] Iacopini, M. and Rossini, L. (202X) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_ (Forthcoming)
 
-[23] Iacopini, M. and Rossini, L. (202X) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_ (Forthcoming)
+[24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming) -- [Video](https://www.youtube.com/watch?v=9ubmYR4nRvE)
 
-[22] Ravazzolo, F. and Rossini, L. (2025) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Is-the-price-cap-for-gas-useful-Evidence-from-European/10.1214/25-AOAS2016.short). _Annals of Applied Statistics_, 19:2, 1065 - 1085
+[23] Benini, G., Enstad, E., Mersha, A.A. and Rossini, L. (2026) – ["Technical versus Environmental Efficiency in Steel Production: A Global Perspective"](https://www.sciencedirect.com/science/article/pii/S0301479726000204). _Journal of Environmental Management_, 398, 128560
 
-[21] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming) -- [Video](https://www.youtube.com/watch?v=9ubmYR4nRvE)
+[22] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"]([https://arxiv.org/abs/2306.01521](https://link.springer.com/article/10.1007/s11222-025-10629-3)). _Statistics and Computing_, 35:110
 
+[21] Ravazzolo, F. and Rossini, L. (2025) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Is-the-price-cap-for-gas-useful-Evidence-from-European/10.1214/25-AOAS2016.short). _Annals of Applied Statistics_, 19:2, 1065 - 1085
 
 [20] Opschoor, A., Lucas, A., and Rossini, L. (2025) - ["Tail Heterogeneity for Dynamic Covariance-Matrix-Valued Random Variables: the F-Riesz Distribution"](https://academic.oup.com/jfec/advance-article/doi/10.1093/jjfinec/nbae023/7815431?searchresult=1). _Journal of Financial Econometrics_, 23:2, nbae023 -- [Code](https://www.gasmodel.com/codes/MATLAB_CODE_CAFR_MODEL.zip)
 
