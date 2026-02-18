@@ -11,10 +11,6 @@ author_profile: true
 
 * [Federico Cortese](https://www.unimi.it/it/ugov/person/federico-cortese) - PostDoctoral Student on Infinite Hidden Markov Model (07/2025 - Present)
 
-* [Andrea Viselli](https://andreaviselli.github.io) - PostDoctoral Student on the project ["Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)"](https://rossiniluca.github.io/Mnemet/) (10/2024 – Present)
-
-* [Marta Campagnoli](https://www.unimi.it/it/ugov/person/marta-campagnoli) - PreDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) (07/2024 - Present)
-
 ### Current Ph.D. Students:
 
 * [Lorenzo Rossi](https://www.linkedin.com/in/lorenzo-rossi-227979168/) - Third Year Ph.D. Student (co-supervised with [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin)) with a thesis on "Growth-at-risk and energy" 
@@ -22,6 +18,10 @@ author_profile: true
 * [Polina Pyanova](https://www.linkedin.com/in/polina-pyanova-446558250/?originalSubdomain=it) - Second Year Ph.D. Student (co-supervised with [Fabrizio Iacone](https://www.unimi.it/it/ugov/person/fabrizio-iacone)) with a thesis on "Density forecasting with quantile regression"
 
 ### Former Post-doc Students:
+
+* [Andrea Viselli](https://andreaviselli.github.io) - PostDoctoral Student on the project ["Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)"](https://rossiniluca.github.io/Mnemet/) (10/2024 – 09/2025) - Current Position: Research Assistant at Free University of Bozen-Bolzano.
+
+* [Marta Campagnoli](https://www.unimi.it/it/ugov/person/marta-campagnoli) - PreDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) (07/2024 - 09/2025) - Current Position: Ph.D. Student at University of Milan.
 
 * [Amare Alemaye Mersha](https://sites.google.com/view/amare-alemaye-mersha) - PostDoctoral Student on the project ["Mapping and Pricing of Methane Emissions from the European Electricity Sector (MAP-of-MeLEES)](https://rossiniluca.github.io/MAP-of-MeLEES/) (02/2024 -- 07/2025)
   
