@@ -9,6 +9,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 {% include base_path %}
 
+* De Bortoli, P, Ferrari, D., Rossini, L, and Ravazzolo, F. (2026) - ["Model selection confidence sets for time series models with applications to electricity load data"](https://arxiv.org/abs/2602.16527v1), _arXiv:2602.16527_ (Submitted)
 * Bastianin, A., Rossini, L. and Testa, A. (2026) – ["Industrial Metal Supply Shocks and Heterogeneous Macroeconomic Effects: Evidence from Copper"](https://www.feem.it/publications/industrial-metal-supply-shocks-and-heterogeneous-macroeconomic-effects-evidence-from-copper/), _FEEM Working paper 02.2026_ (Submitted)
 * Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Bayesian Markov-Switching Partial Reduced-Rank Regression"](https://arxiv.org/abs/2512.17471), _arXiv:2512.17471_ (Submitted)
 *  Bastianin, A., Rossini, L., and Tonni, L. (2025) - ["A Real-Time Framework for Forecasting Metal Prices"](https://www.feem.it/publications/a-real-time-framework-for-forecasting-metal-prices/). _arXiv:2512.16521_ or _FEEM Working paper 34.2025_ (Submitted)
