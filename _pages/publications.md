@@ -9,15 +9,17 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+[28] Cortese, F. and Rossini, L. (202X) - ["A comparison between initialization strategies for the infinite hidden Markov model"](https://arxiv.org/abs/2512.03777). _Computational Statistics and Data Analysis_ (Forthcoming)
+
 [27] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
 
-[26] Iacone, F., Rossini, L. and Viselli, A. (202X) - ["Comparing predictive ability in presence of instability over a very short time"](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext). _The Econometrics Journal_ (Forthcoming) -- [Code](https://github.com/andreaviselli/comparing-predictive-ability-very-short-instability)
+[26] Iacone, F., Rossini, L. and Viselli, A. (2026) - ["Comparing predictive ability in presence of instability over a very short time"](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext). _The Econometrics Journal_, 29:1, 143-166 -- [Code](https://github.com/andreaviselli/comparing-predictive-ability-very-short-instability)
 
-[25] Iacopini, M. and Rossini, L. (202X) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_ (Forthcoming)
+[25] Iacopini, M. and Rossini, L. (2026) - ["Bayesian Semiparametric inference for TVP-SVAR models with asymmetry and fat tails"](https://journals.sagepub.com/doi/10.1177/1471082X251326360). _Statistical Modelling_, 26:2, 184-203
 
-[24] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (202X) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_ (Forthcoming) -- [Video](https://www.youtube.com/watch?v=9ubmYR4nRvE)
+[24] Benini, G., Enstad, E., Mersha, A.A. and Rossini, L. (2026) – ["Technical versus Environmental Efficiency in Steel Production: A Global Perspective"](https://www.sciencedirect.com/science/article/pii/S0301479726000204). _Journal of Environmental Management_, 398, 128560
 
-[23] Benini, G., Enstad, E., Mersha, A.A. and Rossini, L. (2026) – ["Technical versus Environmental Efficiency in Steel Production: A Global Perspective"](https://www.sciencedirect.com/science/article/pii/S0301479726000204). _Journal of Environmental Management_, 398, 128560
+[23] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Bayesian Partial Reduced-Rank Regression"](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2446357). _Journal of Computational and Graphical Statistics_, 34:4, 1344.1355 -- [Video](https://www.youtube.com/watch?v=9ubmYR4nRvE)
 
 [22] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions"]([https://arxiv.org/abs/2306.01521](https://link.springer.com/article/10.1007/s11222-025-10629-3)). _Statistics and Computing_, 35:110
 
