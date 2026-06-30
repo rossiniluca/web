@@ -9,9 +9,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-[28] Cortese, F. and Rossini, L. (202X) - ["A comparison between initialization strategies for the infinite hidden Markov model"](https://www.sciencedirect.com/science/article/pii/S016794732600109X). _Computational Statistics and Data Analysis_ (Forthcoming)
+[28] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
 
-[27] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
+[27] Cortese, F. and Rossini, L. (2026) - ["A comparison between initialization strategies for the infinite hidden Markov model"](https://www.sciencedirect.com/science/article/pii/S016794732600109X). _Computational Statistics and Data Analysis_, 224, 108440
 
 [26] Iacone, F., Rossini, L. and Viselli, A. (2026) - ["Comparing predictive ability in presence of instability over a very short time"](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext). _The Econometrics Journal_, 29:1, 143-166 -- [Code](https://github.com/andreaviselli/comparing-predictive-ability-very-short-instability)
 
