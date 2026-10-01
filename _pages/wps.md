@@ -9,15 +9,13 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 {% include base_path %}
 
-[10] De Bortoli, P, Ferrari, D., Ravazzolo, F., and Rossini, L. (2026) - ["Model selection confidence sets for time series models with applications to electricity load data"](https://arxiv.org/abs/2602.16527v1), _arXiv:2602.16527_ (R&R)
-
-[9] Bastianin, A., Mirto, E., Qin, Y and Rossini, L. (2026) -- ["What drives the European carbon market? Macroeconomic factors and forecasts"](https://arxiv.org/abs/2402.04828). _arXiv:2402.04828_ or _FEEM Working paper Nota di Lavoro 02.2024_ (R&R)
+[9] De Bortoli, P, Ferrari, D., Ravazzolo, F., and Rossini, L. (2026) - ["Model selection confidence sets for time series models with applications to electricity load data"](https://arxiv.org/abs/2602.16527v1), _arXiv:2602.16527_ (R&R)
 
 [8] Bastianin, A., Rossini, L. and Testa, A. (2026) – ["Industrial Metal Supply Shocks and Heterogeneous Macroeconomic Effects: Evidence from Copper"](https://www.feem.it/publications/industrial-metal-supply-shocks-and-heterogeneous-macroeconomic-effects-evidence-from-copper/), _FEEM Working paper 02.2026_ (Submitted)
 
-[7] Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2025) - ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_ (R&R)
+[7] Iacopini, M., Poon, A., Rossini, L. and Zhu, D. (2025) - ["A Quantile Nelson-Siegel model"](https://arxiv.org/abs/2401.09874). _arXiv:2401.09874_ (Submitted)
 
-[6] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Bayesian Markov-Switching Partial Reduced-Rank Regression"](https://arxiv.org/abs/2512.17471), _arXiv:2512.17471_ (Submitted)
+[6] Pintado, M.F., Iacopini, M., Rossini, L. and Shestopaloff, A. (2025) - ["Bayesian Markov-Switching Partial Reduced-Rank Regression"](https://arxiv.org/abs/2512.17471), _arXiv:2512.17471_ (R&R)
 
 [5]  Bastianin, A., Rossini, L., and Tonni, L. (2025) - ["A Real-Time Framework for Forecasting Metal Prices"](https://www.feem.it/publications/a-real-time-framework-for-forecasting-metal-prices/). _arXiv:2512.16521_ or _FEEM Working paper 34.2025_ (R&R)
 
