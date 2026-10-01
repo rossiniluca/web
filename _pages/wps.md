@@ -11,9 +11,9 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/L
 
 [12] Cortese, F. and Rossini, L. (2026) – ["Infinite hidden Markov models for cylindrical data"](https://arxiv.org/abs/2607.07464), _arxiv:2607.07464_ (Submitted)
 
-[11] Ravazzolo, F., Rossini, L., Viselli, A. (2026) – ["Power Play: How Structural Shocks Drive European Electricity Markets"](), (Submitted)
+[11] Ravazzolo, F., Rossini, L., and Viselli, A. (2026) – ["Power Play: How Structural Shocks Drive European Electricity Markets"](), (Submitted)
 
-[10] Bastianin, A., Rossini, L, Zoso, M (2026) – ["Quantifying Demand Shocks in the Green and Digital Transition"](https://arxiv.org/abs/2606.27842), _arXiv:2606.27842_
+[10] Bastianin, A., Rossini, L, and Zoso, M (2026) – ["Quantifying Demand Shocks in the Green and Digital Transition"](https://arxiv.org/abs/2606.27842), _arXiv:2606.27842_
 
 [9] De Bortoli, P, Ferrari, D., Ravazzolo, F., and Rossini, L. (2026) - ["Model selection confidence sets for time series models with applications to electricity load data"](https://arxiv.org/abs/2602.16527v1), _arXiv:2602.16527_ (R&R)
 
