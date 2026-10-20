@@ -9,9 +9,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-[29] Bastianin, A., Mirto, E., Qin, Y. and Rossini, L. (202X) -- ["What drives the European carbon market? Macroeconomic factors and forecasts"](https://www.sciencedirect.com/science/article/pii/S0165188926001806?via%3Dihub). _Journal of Economic Dynamics and Control_ (Forthcoming)
+[30] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
 
-[28] Iacopini, M., O'Neill, E. and Rossini, L. (202X) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_ (Forthcoming)
+[29] Cortese, F. and Rossini, L. (2027) – ["Infinite hidden Markov models for cylindrical data"](https://arxiv.org/abs/2607.07464), _Statistics and Probability Letters_, 242, 110995 
+
+[28] Bastianin, A., Mirto, E., Qin, Y. and Rossini, L. (2026) -- ["What drives the European carbon market? Macroeconomic factors and forecasts"](https://www.sciencedirect.com/science/article/pii/S0165188926001806?via%3Dihub). _Journal of Economic Dynamics and Control_, 193, 105435
 
 [27] Cortese, F. and Rossini, L. (2026) - ["A comparison between initialization strategies for the infinite hidden Markov model"](https://www.sciencedirect.com/science/article/pii/S016794732600109X). _Computational Statistics and Data Analysis_, 224, 108440
 
