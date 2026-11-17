@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
+[31]  Bastianin, A., Rossini, L., and Tonni, L. (202X) - ["A Real-Time Framework for Forecasting Metal Prices"](https://www.feem.it/publications/a-real-time-framework-for-forecasting-metal-prices/). _International Journal of Forecasting_, Forthcoming
+
 [30] Cortese, F. and Rossini, L. (2027) – ["Infinite hidden Markov models for cylindrical data"](https://www.sciencedirect.com/science/article/pii/S0167715226003597), _Statistics and Probability Letters_, 242, 110995 
 
 [29] Iacopini, M., O'Neill, E. and Rossini, L. (2026) - ["Static and Dynamic BART for Rank-Order Data"](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2604128). _Journal of Business and Economic Statistics_, 44:4, 1155-1166
